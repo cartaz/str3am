@@ -5,9 +5,9 @@ FPS="15"
 QUAL="ultrafast"
  
 YOUTUBE_URL="rtmp://a.rtmp.youtube.com/live2"
-KEY="4t6g-b79t-r7t1-1mf5-d0z3"
+KEY="SUA KEY DO YOUTUBE STREAM AQUI"
  
-VIDEO_SOURCE="/home/ubuntu/Desktop/video.mp4"
+VIDEO_SOURCE="video.mp4"
 AUDIO_SOURCE="http://stream.zeno.fm/yuzyuq2d2c9uv"
  
 ffmpeg -v quiet \

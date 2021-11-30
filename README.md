@@ -11,5 +11,7 @@ git clone https://github.com/olivrae/str3am.git
 
 ## 3- Utilize este comando com o script que vc vai usar para tornar o script executavel: chmod +x NomeDoScript.sh
 
-## 4- Ative o script e confira s a traansmissao começou: ./NomeDoScript.sh
+## 4- Limpe o terminal com CTRL + L ou o comando "clear"
+
+## 5- Ative o script e confira s a traansmissao começou: ./NomeDoScript.sh
 

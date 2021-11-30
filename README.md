@@ -3,7 +3,7 @@
 git clone https://github.com/olivrae/str3am.git
 #
 
-## 1- Abra a pasta STR3AM
+## 1- Abra a pasta STR3AM (use "ls" para ver as pastas e "cd NomeDaPasta" para abrir
 
 ## 2- Use para editar e por a sua configuraçao da live: nano NomeDoScript.sh
 

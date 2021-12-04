@@ -1,0 +1,17 @@
+ARQUIVOS SCRIPT::: https://www.mediafire.com/folder/t0wrnfkus9lgq/MARVADAO+LIVES
+
+COMANDOS DO SCRIPT:
+ANTES DE TUDO USE ESTE > PARA MANTER O TERMINAL ATIVO: cd && cd project && bash alive.sh
+
+PARA INICIAR A LIVE (FAÇA UPLOAD DO ARQUIVO DE VIDEO ANTES, clique no espaço vazio a esquerda,
+botao direito e upload): cd && cd project && bash live.sh
+
+CASO O VIDEO TENHA AUDIO, USE "silencio.mp3" quando o script pedir para por o nome do arquivo de audio,
+dessa forma vai sair apenas o audio do video
+
+ACESSO::
+
+LINK:  https://marvadao-live.herokuapp.com/
+SENHA: 20chinelar
+
+BACKUP MEDIAFIRE: https://www.mediafire.com/folder/t0wrnfkus9lgq/MARVADAO+LIVES

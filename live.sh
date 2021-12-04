@@ -11,8 +11,9 @@ echo ""
 echo -e "\e[1;34mSUGESTION OF SERVERS FOR THE LIVE:"
 echo -e "\e[0;35mTWITCH: \e[1;36m rtmp://live-fra.twitch.tv/app"
 echo -e "\e[1;31mYOUTUBE: \e[1;36m rtmp://a.rtmp.youtube.com/live2"
+echo -e "\e[1;34mFACEBOOK: \e[1;36m rtmps://live-api-s.facebook.com:443/rtmp"
 echo ""
-echo -ne "\e[1;32mPASTE THE SERVER OF THE LIVE: ";
+echo -ne "\e[1;32mPASTE THE SERVER OF LIVE: ";
 read SERVER
 echo ""
 echo -ne "\e[1;32mPASTE THE KEY STREAM: ";

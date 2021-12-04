@@ -8,10 +8,3 @@ botao direito e upload): cd && cd project && bash live.sh
 
 CASO O VIDEO TENHA AUDIO, USE "silencio.mp3" quando o script pedir para por o nome do arquivo de audio,
 dessa forma vai sair apenas o audio do video
-
-ACESSO::
-
-LINK:  https://marvadao-live.herokuapp.com/
-SENHA: 20chinelar
-
-BACKUP MEDIAFIRE: https://www.mediafire.com/folder/t0wrnfkus9lgq/MARVADAO+LIVES
